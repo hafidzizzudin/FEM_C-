@@ -1,0 +1,11 @@
+D:\C#\FEM\FEM\bin\Debug\netcoreapp2.1\FEM.deps.json
+D:\C#\FEM\FEM\bin\Debug\netcoreapp2.1\FEM.runtimeconfig.json
+D:\C#\FEM\FEM\bin\Debug\netcoreapp2.1\FEM.runtimeconfig.dev.json
+D:\C#\FEM\FEM\bin\Debug\netcoreapp2.1\FEM.dll
+D:\C#\FEM\FEM\bin\Debug\netcoreapp2.1\FEM.pdb
+D:\C#\FEM\FEM\obj\Debug\netcoreapp2.1\FEM.csprojAssemblyReference.cache
+D:\C#\FEM\FEM\obj\Debug\netcoreapp2.1\FEM.csproj.CoreCompileInputs.cache
+D:\C#\FEM\FEM\obj\Debug\netcoreapp2.1\FEM.AssemblyInfoInputs.cache
+D:\C#\FEM\FEM\obj\Debug\netcoreapp2.1\FEM.AssemblyInfo.cs
+D:\C#\FEM\FEM\obj\Debug\netcoreapp2.1\FEM.dll
+D:\C#\FEM\FEM\obj\Debug\netcoreapp2.1\FEM.pdb
